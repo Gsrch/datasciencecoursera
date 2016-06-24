@@ -1,6 +1,1 @@
----
-title: "HelloWorld"
-author: "GSrch"
-date: "June 24, 2016"
-
 ##This is a markdown file
